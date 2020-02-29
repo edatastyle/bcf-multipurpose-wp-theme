@@ -1,4 +1,4 @@
-Business Consultant Finder ( BCF )  Multipurpose WP Theme
+Business Consultant Finder ( BCF ) Free Multipurpose WP Theme
 ========================================
 
 <h4><a href="https://athemeart.com/demo/shopstore/" target="_blank" >Live Demo.</a></h4>
