@@ -1,0 +1,40 @@
+#top-bar,
+.top-appoinment,
+.social-inline li a:hover,.navigation.posts-navigation a:after, .theme-btn:after,.comment-meta .single-comment .comment .reply a:hover,.rd-navbar-fixed .rd-navbar-nav li.opened > a, .rd-navbar-fixed .rd-navbar-nav li a:hover,.blog-loop-wrp .post-formate,
+.social-inline li a:focus,.comment-meta .single-comment .comment .reply a:focus, .rd-navbar-fixed .rd-navbar-nav li a:focus{
+	background:#18ba60;	
+}
+#top-bar li a:hover,.rd-navbar-static .rd-navbar-nav > li.active > a, .rd-navbar-static .rd-navbar-nav > li.opened > a, .rd-navbar-static .rd-navbar-nav > li.focus > a, .rd-navbar-static .rd-navbar-nav > li > a:hover,.rd-navbar-static .rd-navbar-nav > li > a:focus, .rd-navbar-static .rd-navbar-nav > li.current-menu-item > a,
+.social-inline li a,.theme-btn, .navigation.posts-navigation a{
+	color:#18ba60;
+}
+.rd-navbar-static .rd-navbar-nav > li:before,.theme-btn, .navigation.posts-navigation a{
+	border-color:#18ba60;
+}
+/*-------------- Color 2nd -------*/
+
+ul.bcf-meta-list li a,
+.header-widget-container i,
+.entry-heading a:hover,a:hover, a:focus, a:active,.sidebar li:hover::before, #footer-widget li:hover::before,.top-appoinment:hover,time.entry-date,.sidebar li:focus:before,#footer-widget li:focus:before,.top-appoinment:focus {
+	color: #18ba60;
+}
+
+.rd-navbar-fixed .rd-navbar-nav li.opened > a, .rd-navbar-fixed .rd-navbar-nav li a:hover{
+	color:#FFF;
+}
+#footer-widget{
+	border-color:#EAEAEA;
+}
+.theme-btn:hover, .theme-btn:active, .theme-btn:hover i,
+.theme-btn.active, .theme-btn.active, .theme-btn.active i,
+.theme-btn:focus, .theme-btn:focus i,
+a.theme-btn:hover, a.theme-btn:active, a.theme-btn:hover i,
+a.theme-btn.active, a.theme-btn.active, a.theme-btn.active i,
+a.theme-btn:focus, .theme-btn:focus i
+{
+	color: #fff;
+}
+.search-form .search-field:hover,
+.search-form .search-field:focus{
+	border-color:#18ba60;
+}

@@ -1,0 +1,84 @@
+/*
+Theme Name: Business Consultant Finder
+
+Adding support for languages written in a Right To Left (RTL) direction is easy -
+it's just a matter of overwriting all the horizontal positioning attributes
+of your CSS stylesheet in a separate stylesheet file named rtl.css.
+
+https://codex.wordpress.org/Right-to-Left_Language_Support
+
+*/
+
+
+body {
+	direction: rtl;
+	text-align:right;
+	unicode-bidi: embed;
+}
+#top-bar .col-md-9{
+	text-align:right;	
+}
+#top-bar .col-md-3{
+	text-align:left;	
+}
+#top-bar ul,
+.header-widget-container{
+	float:left;	
+}
+.rd-navbar-brand{
+	float:right;	
+}
+.top-appoinment{
+	left:0px;
+	right:auto;	
+}
+a.ui-to-top{
+	right:auto;
+	left:0px;	
+}
+.sidebar .widget li::before, #footer-widget .widget li::before {
+	left:auto;
+	right:0px;	
+}
+.sidebar li, #footer-widget li{
+	padding-left:0px;
+	padding-right:30px;	
+}
+h4.widget-title{
+	text-align:right;	
+}
+#secondary li::after, #footer-widget li::after {
+   
+    background: -moz-radial-gradient(right, ellipse cover, rgba(197, 202, 213, 0.7) 0%, rgba(255, 255, 255, 0) 70%);
+    background: -webkit-radial-gradient(right, ellipse cover, rgba(197, 202, 213, 0.7) 0%, rgba(255, 255, 255, 0) 70%);
+    background: radial-gradient(ellipse at right, rgba(197, 202, 213, 0.7) 0%, rgba(255, 255, 255, 0) 70%);
+}
+.blog-loop-wrp .item::before, .ellipse-bottom::after {
+	left:auto;
+	right:0px;	
+}
+.blog-loop-wrp .item::after, .ellipse-left::after {
+	 background: -moz-radial-gradient(right, ellipse cover, rgba(197, 202, 213, 0.7) 0%, rgba(255, 255, 255, 0) 70%);
+    background: -webkit-radial-gradient(right, ellipse cover, rgba(197, 202, 213, 0.7) 0%, rgba(255, 255, 255, 0) 70%);
+    background: radial-gradient(ellipse at right, rgba(197, 202, 213, 0.7) 0%, rgba(255, 255, 255, 0) 70%);
+}
+.theme-btn i{
+	margin-right:0px;	
+}
+ul.bcf-meta-list li::after {
+    margin-left: 0px;
+    margin-right: 10px;
+}
+.comment-meta .single-comment .comment .reply{
+	left:0px;
+	right:auto;	
+}
+.float-left {
+    float: right !important;
+}
+.logged-in-as {
+    margin-right: 15px;
+}
+.form-submit{
+	margin-right:15px;	
+}
