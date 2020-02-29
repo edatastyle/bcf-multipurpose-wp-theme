@@ -36,45 +36,32 @@ BCF has a fully 99.99% responsive design that will always remain mobile-friendly
 <pre>
 = 2.2.3 =
 * Predic_Widget class exists checkign
-
 = 2.2.2 =
 * remove plugin-install and updates enqueue_script(
-
 = 2.2.1 =
 * Gutenberg Gallery Slider
 * Screenshot updated
 * recommed seo plugins
-
 = 2.2 =
 * remove Modified Date
-
 = 2.0 =
 * Sidebar issue fixed
-
 = 1.9 =
 * Text Domain Updated
-
 = 1.8 =
 * Footer credit link update
-
 = 1.7 =
 * Review Team feedback updated
-
 = 1.6 =
 * Review Team feedback updated
-
 = 1.4 =
 * Review Team feedback updated
-
 = 1.3 =
 * Review team feedback updated
-
 = 1.2 =
 * skip links added
-
 = 1.1 =
 * common issue checked
-
 = 1.0 =
 * initial released
 </pre>
