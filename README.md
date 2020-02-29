@@ -14,7 +14,7 @@ Business-Consultant-Finder is a multi-purpose business theme with an acknowledge
 
 BCF has a fully 99.99% responsive design that will always remain mobile-friendly and will render perfectly on all devices or apps view. It comes with a stylish, modern, and responsive, built on a one-page or multiple purpose layouts, and many different demos. the free WordPress theme is a perfect fit for both corporate and creative purposes, as it provides a clean and flexible appearance, an elegant portfolio, and an eye-catching online shop.
 
-<h5>Frequently Asked Questions</h5>
+<h3>Frequently Asked Questions</h3>
 1. How to set top bar icon / text etc ?
 	please navigate, wp-admin -> Appearance -> Customize -> Theme Options ->   Global Options 
 2. what's logo right side text and icon ?
@@ -26,13 +26,13 @@ BCF has a fully 99.99% responsive design that will always remain mobile-friendly
 
 5. How to find screenshot content icon box ?
    please use elementor page builder , you will find lot of widget for content . 
-<h5>Installation</h5>   
+<h3>Installation</h3>   
    
 1. In your admin panel, go to Appearance > Themes and click the Add New button.
 2. Click Upload and Choose File, then select the theme's .zip file. Click Install Now.
 3. Click Activate to use your new theme right away.   
 
-<h5>Upgrade Notice</h5>
+<h3>Upgrade Notice</h3>
 <pre>
 = 2.2.3 =
 * Predic_Widget class exists checkign
